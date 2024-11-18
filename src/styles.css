@@ -1,4 +1,23 @@
+body {
+    background: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: green;
+}
+
 footer {
+    margin-top: 10px;
     text-align: center;
 }
 
